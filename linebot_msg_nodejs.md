@@ -2,7 +2,7 @@
 # LineBot Messaging API 推播與回覆 Node Js (express) 篇
 - 前言
 
-本文以實作為主，Messaging API 建立請參考LineBot Messaging API 推播與回覆 Java 篇
+> 本文以實作為主，Messaging API 建立請參考[LineBot Messaging API 推播與回覆 Java 篇](linebot_msg_java.md)
 
 - 快速建置express框架專案
 
