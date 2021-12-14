@@ -9,27 +9,27 @@
 > - Express-Generator 快速建置網頁 : npm install -g express-generator
 > - 產生專案：express 專案名稱
 
-![linebot_msg_nodejs_1](/imgs/linebot_msg_nodejs_1.jpg)
+![linebot_msg_nodejs_1](imgs/linebot_msg_nodejs_1.jpg)
 - 進入專案資料夾
 
-![linebot_msg_nodejs_2](/imgs/linebot_msg_nodejs_2.jpg)
+![linebot_msg_nodejs_2](imgs/linebot_msg_nodejs_2.jpg)
 > - 安裝套件：npm install
 
-![linebot_msg_nodejs_3](/imgs/linebot_msg_nodejs_3.jpg)
+![linebot_msg_nodejs_3](imgs/linebot_msg_nodejs_3.jpg)
 > - 啟動站台：npm start
 
-![linebot_msg_nodejs_4](/imgs/linebot_msg_nodejs_4.jpg)
+![linebot_msg_nodejs_4](imgs/linebot_msg_nodejs_4.jpg)
 - 開啟瀏覽器：http://localhost:3000/
 
-![linebot_msg_nodejs_5](/imgs/linebot_msg_nodejs_5.jpg)
+![linebot_msg_nodejs_5](imgs/linebot_msg_nodejs_5.jpg)
 - 停止站台：Ctrl +C
 
-![linebot_msg_nodejs_6](/imgs/linebot_msg_nodejs_6.jpg)
+![linebot_msg_nodejs_6](imgs/linebot_msg_nodejs_6.jpg)
 
 - 安裝linebot套件
 > - npm install linebot
 
-![linebot_msg_nodejs_7](/imgs/linebot_msg_nodejs_7.jpg)
+![linebot_msg_nodejs_7](imgs/linebot_msg_nodejs_7.jpg)
 - LineBot Messaging API Webhook設定
 
 > - 修改 app.js 增加 ./routes/callback
