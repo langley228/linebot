@@ -5,10 +5,10 @@
 - LineBot Messaging API 
 > - 推播與回覆 (入門篇)
 >> - [LineBot Messaging API 推播與回覆 Java 篇](linebot_msg_java.md)
->> - [LineBot Messaging API 推播與回覆 Apps Script 篇](linebot_msg_java.md)
+>> - [LineBot Messaging API 推播與回覆 Google Apps Script 篇](linebot_msg_google.md)
 >> - LineBot Messaging API 推播與回覆 .Net 篇
 >> - LineBot Messaging API 推播與回覆 Python 篇
->> - [LineBot Messaging API 推播與回覆 Node.js(express)篇](linebot_msg_java.md)
+>> - [LineBot Messaging API 推播與回覆 Node.js(express)篇](linebot_msg_nodejs.md)
 > - 其他功能(進階篇)　(暫定)
 >> - 未定
 - LineBot LINE Login 
